@@ -151,11 +151,11 @@ Want me to? 🎨✨
 
 ## Google
 
-- [Gemini 2.0 Flash](./SystemPrompts/SystemPrompts/Meta.ai/gemini-2.0-flash-03072025.md)
-- [Gemini 2.0 Flash Thinking with Tools (gemini.google.com)](./SystemPrompts/SystemPrompts/Meta.ai/gemini-2.0-flash-thinking-gemini-app-03072025.md)
-- [Gemini Advanced Pro 1.5](./SystemPrompts/SystemPrompts/Meta.ai/gemini-advanced-pro-1.5-12122024.md)
-- [Gemini 1.5 - 04/11/2024](./SystemPrompts/SystemPrompts/Meta.ai/gemini-1.5-04112024.md)
-- [Notebook LM - 10/20/2024](./SystemPrompts/SystemPrompts/Meta.ai/notebooklm-10202024.md)
+- [Gemini 2.0 Flash](./SystemPrompts/SystemPrompts/Google/gemini-2.0-flash-03072025.md)
+- [Gemini 2.0 Flash Thinking with Tools (gemini.google.com)](./SystemPrompts/SystemPrompts/Google/gemini-2.0-flash-thinking-gemini-app-03072025.md)
+- [Gemini Advanced Pro 1.5](./SystemPrompts/SystemPrompts/Google/gemini-advanced-pro-1.5-12122024.md)
+- [Gemini 1.5 - 04/11/2024](./SystemPrompts/SystemPrompts/Google/gemini-1.5-04112024.md)
+- [Notebook LM - 10/20/2024](./SystemPrompts/SystemPrompts/Google/notebooklm-10202024.md)
 
 ## Meta.ai
 
@@ -189,20 +189,20 @@ Want me to? 🎨✨
 
 ## rabbit r1
 
-- [raw data - 04/24/2024](./rabbit-r1/04242024-rawdata.md)
-- [tools and instructions - 04/24/2024](./rabbit-r1/04242024-tools.md)
+- [raw data - 04/24/2024](./SystemPrompts/rabbit-r1/04242024-rawdata.md)
+- [tools and instructions - 04/24/2024](./SystemPrompts/rabbit-r1/04242024-tools.md)
 
 ## Voilà
 
-- [GetVoilà.ai digital assistant - 07/23/2024](./Voilà/20240723-Voilà.md)
+- [GetVoilà.ai digital assistant - 07/23/2024](./SystemPrompts/Voilà/20240723-Voilà.md)
 
 ## Venice.ai
 
-- [Venice.ai - 07/24/2024](./Venice.ai/07242024-Venice.md)
+- [Venice.ai - 07/24/2024](./SystemPrompts/Venice.ai/07242024-Venice.md)
 
 ## Cursor.com
 
-- [Cursor.com - 09/04/2024](./Cursor.com/20240904-Cursor.md)
+- [Cursor.com - 09/04/2024](./SystemPrompts/Cursor.com/20240904-Cursor.md)
 
 ## V0.dev
 
