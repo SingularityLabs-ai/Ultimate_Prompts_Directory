@@ -206,12 +206,12 @@ Want me to? 🎨✨
 
 ## V0.dev
 
-- [V0.dev - 09/04/2024](./V0.dev/20240904-V0.md)
+- [V0.dev - 09/04/2024](./SystemPrompts/V0.dev/20240904-V0.md)
 
 ## [Hume.ai](https://twitter.com/hume_ai)
 
-- [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
-- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
+- [System prompt - 05/05/2024](./SystemPrompts/Hume.ai/05052024-system-prompt.md)
+- [System prompt - 05/04/2024](./SystemPrompts/Hume.ai/05042024-system-prompt.md)
 
 ## Miscellanous
 
