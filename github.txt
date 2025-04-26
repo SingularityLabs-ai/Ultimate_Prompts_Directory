@@ -1,0 +1,2 @@
+I have a GitHub repo which consolidates all possible prompts for all kinds of generative of AI (LLM, voice, image, video generation, coding, marketing etc). Now I want you to write a nice `README.md` for it. The Readme markdown file should be nicely styled with emojis and various kinds of fonts styles, font sizes highlight all headers, Sub-headers, links tables etc. 
+To have more context of the content of the repo I am sharing with you its directory structure. Here is the directory structure: 
