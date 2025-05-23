@@ -157,6 +157,10 @@ Want me to? 🎨✨
 - [Gemini 1.5 - 04/11/2024](./SystemPrompts/SystemPrompts/Google/gemini-1.5-04112024.md)
 - [Notebook LM - 10/20/2024](./SystemPrompts/SystemPrompts/Google/notebooklm-10202024.md)
 
+## Google Veo
+- [VEO3 Outdoor](./SystemPrompts/SystemPrompts/Google_VEO.md)
+
+
 ## Meta.ai
 
 - [Meta.ai / llama4 - 04/08/2024](./Meta.ai/metaai_llama4-04082025.md)
