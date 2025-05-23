@@ -158,8 +158,7 @@ Want me to? 🎨✨
 - [Notebook LM - 10/20/2024](./SystemPrompts/SystemPrompts/Google/notebooklm-10202024.md)
 
 ## Google Veo
-- [VEO3 Outdoor](./SystemPrompts/SystemPrompts/Google_VEO.md)
-
+- [VEO3 Outdoor](./SystemPrompts/Google_VEO.md)
 
 ## Meta.ai
 
